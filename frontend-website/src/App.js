@@ -18,7 +18,7 @@ import OrderHistoryScreen from "./screens/OrderHistoryScreen";
 import QRScreen from "./screens/QRScreen";
 import OrderListScreen from "./screens/OrderListScreen";
 import ProfileScreen from "./screens/ProfileScreen";
-import PrivateRoute from "components/PrivateRoute";
+import PrivateRoute from "./components/PrivateRoute";
 import SigninQRScreen from "screens/SigninQRScreen";
 import {Dropdown, Menu} from "antd";
 import { addToCart, removeCart } from "./actions/cartActions";

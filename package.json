@@ -19,13 +19,10 @@
   },
   "homepage": "https://github.com/thanhloctruong/congNgheMoi#readme",
   "dependencies": {
-    "@ant-design/icons": "^4.7.0",
-    "antd": "^4.16.13",
     "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
-    "heroku": "^7.59.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.5",
     "multer": "^1.4.3"
