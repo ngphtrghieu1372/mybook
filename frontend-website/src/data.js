@@ -10,7 +10,7 @@ const data = {
       brand: "Kimdong",
       rating: 4.5,
       numReviews: 10,
-      description: "hang cao cap"
+      description: "hàng cao cap"
     },
     {
       _id: "2",
